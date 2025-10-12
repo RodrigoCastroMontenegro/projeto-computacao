@@ -9,7 +9,7 @@ O projeto foi desenvolvido para fins acadêmicos no curso de Análise e Desenvol
 
 ## Autores e Papéis
 - **Rodrigo Montenegro** — Desenvolvimento da estrutura HTML, hero, cards e seções principais.  
-- **Glaugberson** — CSS, ajustes de layout, responsividade e integração das páginas.
+- **Glauberson** — CSS, ajustes de layout, responsividade e integração das páginas.
 
 
 ---
@@ -62,5 +62,6 @@ O projeto foi desenvolvido para fins acadêmicos no curso de Análise e Desenvol
 - **Repositório GitHub:** [link-do-repositorio]  
 - **Site ativo:**  https://rodrigocastromontenegro.github.io/projeto-computacao/ 
 - **Vídeo de demonstração:** [link-do-video]  
+
 
 
