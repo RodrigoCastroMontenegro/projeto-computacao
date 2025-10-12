@@ -61,7 +61,8 @@ O projeto foi desenvolvido para fins acadêmicos no curso de Análise e Desenvol
 ## Links Úteis
 - **Repositório GitHub:** https://github.com/RodrigoCastroMontenegro/projeto-computacao.git
 - **Site ativo:**  https://rodrigocastromontenegro.github.io/projeto-computacao/ 
-- **Vídeo de demonstração:** [link-do-video]  
+- **Vídeo de demonstração:** https://youtube.com/shorts/BndLRLwYTr0?si=nzPpW5BuOkiU_N_k
+
 
 
 
